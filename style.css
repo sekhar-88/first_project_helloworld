@@ -1,0 +1,21 @@
+body {
+	background-color:  #CEECF5;
+	margin: 20px;
+}
+
+.topleft {
+	float: left;
+	padding: 30px;
+	background-color: #A9D0F5;
+	border: solid 1px #5882FA;
+	box-shadow:  5px 5px ;
+}
+#intro  {
+	width: 250px;
+	font-style: bold;
+}
+
+h1	{
+	text-align: center;
+	color: Red;
+}
